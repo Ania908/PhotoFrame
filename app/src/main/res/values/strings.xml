@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyPhotoFrame</string>
+    <string name="clock">go to clock</string>
+    <string name="no_clock">go to no clock</string>
+    <string name="on">on</string>
+    <string name="off">off</string>
+    <string name="show1">slide show 1</string>
+    <string name="show2">slide show 2</string>
+    <string name="show3">slide show 3</string>
+</resources>
